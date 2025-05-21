@@ -1,4 +1,4 @@
-# 📊 Dashboard Module – Test Cases (Foodnerd Electron)
+# Dashboard Module – Test Cases (Foodnerd Electron)
 
 | Test Case ID | Module    | Test Case Description                                                                                      | Expected Result                                                                                         | Priority | Execution Status | Notes |
 |--------------|-----------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------|------------------|-------|
