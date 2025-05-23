@@ -1,4 +1,4 @@
-# 🧾 New Orders Module – Test Cases (Foodnerd Electron)
+# New Orders Module – Test Cases (Foodnerd Electron)
 
 | Test Case ID | Module        | Test Case Description                                                                                  | Expected Result                                                                                         | Priority | Execution Status | Notes |
 |--------------|---------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------|------------------|-------|
